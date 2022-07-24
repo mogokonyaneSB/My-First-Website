@@ -1,0 +1,33 @@
+h1{
+    color: palevioletred;
+    background-color: whitesmoke;
+    font-size: 40px;
+    position: inherit;
+    content: normal;
+}
+
+.content p{
+    background-color: darkgrey;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    font-style: italic;
+}
+
+.content h1{
+    text-align: left;
+}
+
+.content{
+    background: wheat;
+}
+
+body{
+    background: wheat;
+}
+
+li{
+   display: inline;
+   justify-content: space-between;
+
+}
